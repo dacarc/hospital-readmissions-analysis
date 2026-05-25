@@ -4,14 +4,14 @@ This project analyzes hospital readmission rates across the U.S. and compares th
 
 **Datasets**
 
-FY 2026 Hospital Readmissions Reduction Program (HRRP) — data.cms.gov
-HCAHPS Patient Satisfaction Survey — data.cms.gov
+FY 2026 Hospital Readmissions Reduction Program (HRRP) - data.cms.gov
+HCAHPS Patient Satisfaction Survey - data.cms.gov
 
 **Tools Used**
 
-Python & pandas — data cleaning and merging
-SQL (SQLite) — aggregating and querying the data
-Power BI — interactive dashboard
+Python & pandas - data cleaning and merging
+SQL (SQLite) - aggregating and querying the data
+Power BI - interactive dashboard
 
 **Key Findings**
 
