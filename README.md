@@ -6,14 +6,14 @@ This project analyzes hospital readmission rates across the U.S. and compares th
 
 **Datasets**
 
-FY 2026 Hospital Readmissions Reduction Program (HRRP) — data.cms.gov
+FY 2026 Hospital Readmissions Reduction Program (HRRP) - data.cms.gov
 HCAHPS Patient Satisfaction Survey — data.cms.gov
 
 **Tools Used**
 
-Python & pandas — data cleaning and merging
-SQL (SQLite) — aggregating and querying the data
-Power BI — interactive dashboard
+Python & pandas: data cleaning and merging
+SQL (SQLite):  aggregating and querying the data
+Power BI: interactive dashboard
 
 **National Key Findings**
 
@@ -21,8 +21,8 @@ Massachusetts and New Jersey had the highest average excess readmission ratios
 Wisconsin, South Dakota, and Utah had the highest patient satisfaction scores
 Hip/Knee replacement and CABG had the worst readmission rates by condition
 High patient satisfaction does not always mean lower readmission rates
-**
-Virginia Deep Dive Key Findings**
+
+**Virginia Deep Dive Key Findings**
 
 Mary Washington Hospital had the highest excess readmission ratio in Virginia
 Augusta Health was the best performing hospital with the lowest readmission ratio
