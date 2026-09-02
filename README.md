@@ -28,13 +28,3 @@ Mary Washington Hospital had the highest excess readmission ratio in Virginia
 Augusta Health was the best performing hospital with the lowest readmission ratio
 Inova hospital system consistently ranked among the best performers
 Spotsylvania Regional scored 1.0 in three patient satisfaction categories
-
-Files
-
-hospital_readmissions_analysis.ipynb — national analysis
-02_virginia_analysis.ipynb — Virginia specific analysis
-cleaned_hospital_data.csv — national cleaned dataset
-virginia_hospitals.csv — Virginia cleaned dataset
-queries.sql — SQL queries
-dashboard_screenshot.png — national Power BI dashboard
-virginia_dashboard_screenshot.png — Virginia Power BI dashboard
